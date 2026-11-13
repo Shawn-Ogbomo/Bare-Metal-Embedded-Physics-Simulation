@@ -1,6 +1,6 @@
-# STM32G474 3D Billiards Physics Simulation
+# STM32G474 2D Billiards Physics Simulation
 
-This is an independent learning project focused on building a 3D billiards physics simulation executing directly on microcontroller hardware. The goal is to learn embedded programming and modern C++ initialization structures from scratch.
+This is an independent learning project focused on building a 2D billiards physics simulation executing directly on microcontroller hardware. The goal is to learn embedded programming and modern C++ initialization structures from scratch.
 
 ## 🛠️ The Hardware Stack (On My Desk)
 * **Microcontroller Board:** NUCLEO-G474RE (ARM Cortex-M4 base board)
